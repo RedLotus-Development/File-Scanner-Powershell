@@ -4,13 +4,21 @@ RedLotus-FileContentScanner
 ![image](https://github.com/user-attachments/assets/df0d168b-f3ec-47bd-aba3-ad1464ef9cd2)
 
 Banner Format:
+
  Write-Host -ForegroundColor DarkRed "  ____          _ _          _             "
+ 
  Write-Host -ForegroundColor DarkRed "|  _ \ ___  __| | |    ___ | |_ _   _ ___ "
+ 
  Write-Host -ForegroundColor DarkRed "| |_) / _ \/ _` | |   / _ \| __| | | / __|"
+ 
  Write-Host -ForegroundColor White "|  _ <  __/ (_| | |__| (_) | |_| |_| \__ \"
+ 
  Write-Host -ForegroundColor White "|_| \_\___|\__,_|_____\___/ \__|\__,_|___/"
+ 
  Write-Host
  Write-Host -ForegroundColor Red "By UnMonsieur - Red Lotus"
+# Banner Generator
+https://www.asciiart.eu/image-to-ascii
 
 # **How to Edit**
 1) $extensions - specify a * and extension (i.e "*.exe" for executables")
